@@ -6,7 +6,7 @@ Download the Fabric Appled Gold jar file from this repo.
 
 Download the Fabric API (this is another mod that you need) from curseforge here (https://www.curseforge.com/minecraft/mc-mods/fabric-api/files). Make sure you get the 1.16.5 version
 
-Download the Fabric Minecraft Launcher (assmuning you dont have it) here (https://fabricmc.net/use/)
+Download the Fabric Minecraft Launcher for 1.16.5 (this is different than the Forge one) here (https://fabricmc.net/use/)
 
 Once all three things, the two mods and the launcher are on your computer, double click the launcher and click Install.
 
